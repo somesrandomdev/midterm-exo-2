@@ -1,0 +1,12 @@
+{
+  "name": "ex2-docker",
+  "version": "1.0.0",
+  "description": "DevOps-MEX Fall 2025 – exercise 2",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
